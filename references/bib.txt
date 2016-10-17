@@ -1,3 +1,5 @@
 1. Reference universelle
 2. Reference supreme
 3. Reference globale
+4. Reference partielle
+5. Reference fractionnee
